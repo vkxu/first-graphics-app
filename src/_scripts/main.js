@@ -10,3 +10,5 @@ $(() => {
   new Link(); // Activate Link modules logic
   console.log('Welcome to Yeogurt!');
 });
+
+var charts = require('./_charts.js');
